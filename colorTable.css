@@ -1,0 +1,152 @@
+*{
+    padding :0;
+    margin :0;
+    border-size : border-boxing;
+}
+.container{
+    width:100%;
+    height: 900px;
+   background-color:#e4e4e4;
+  
+    margin-top:25%;
+}
+.nav{
+    width:100%;
+    height:40px;
+   margin: Auto;
+    padding:25px 0;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    font-size:20px;
+  background-color:black;
+  color : White ;
+  font-weight: bold;
+}
+.nav ul li{
+    list-style:none;
+    display:inline-block;
+    margin:0 20px;
+    position: relative;
+   
+}
+
+h1{
+    font-size:40px;
+    color:black;
+   text-align: center ;
+  margin-top :5%;
+  background:#137de4;
+}
+table {
+    width:100%;
+    height:250px;
+   margin-top :5%;
+    font-size :24px;
+      text-align: center ;
+    border-collapse:collapse;
+  
+}
+th{
+    background:#137de4;
+    color:white;
+}
+button{
+    width:50px;
+    height:30px;
+    color : white ;
+}
+.tr1{
+    background:#abe4ab;
+}
+.tr2{
+    background: #e498b5;
+}
+.tr3{
+    background: #98e4b5;
+}
+.bt1{
+    background: #e44c68;
+}
+.bt2{
+    background:#e74327;
+    font-size :12px
+}
+.bt3{
+    background: transparent;
+    color : white ;
+    border : solid #a5ff80 2px;
+  
+    
+}
+input {
+  width:200px;
+  height:50px;
+  text-align: center ;
+  border-radius:25px;
+  border :none;
+}
+h2{
+    font-family :cursive;
+    font-weight: bold;
+    padding-left:15px;
+}
+table,th,tr,td{
+    border: solid black 2px;
+}
+.footer {
+   background-color:black;
+   width:100%;
+   height:400px;
+   margin-top:5%;
+   color: white ;
+   
+}
+.ft1{
+  width: 400px;
+  height: 300px;
+  color : white ;
+  
+  margin :20px 20px;
+  font-size :24px;
+  float :left;
+  padding-top:5%;
+  
+}
+p{
+    font-size :24px;
+    padding-top:15%;
+}
+.icon{
+    
+    width: 200px;
+    float:left;
+    margin-left:24%;
+    
+    
+}
+.fa{
+  
+    color: White ;
+   padding:5px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+.onbt{
+  width:300px;
+  height:50px;
+  text-align:center ;
+  border-radius:40px;
+  border :none;
+  background:#137de4;
+  float: right ;
+  padding-top:15px;
+  margin-top:5%;
+  margin-right:5%;
+  font-size :24px;
+  
+}
+
+
